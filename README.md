@@ -5,14 +5,6 @@
     <img src="https://www.gitskins.com/api/section/hero?username=dishavreddy&theme=neon" alt="dishavreddy hero section" />
   </picture>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/streak?username=dishavreddy&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/streak?username=dishavreddy&theme=neon" alt="dishavreddy GitHub streak" />
-  </picture>
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dishavreddy&theme=neon&mode=light" />
