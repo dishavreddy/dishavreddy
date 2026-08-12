@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Disha V Reddy</h1>
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dishavreddy&theme=darkhub&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dishavreddy&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishavreddy&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+<h3 align="left">GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dishavreddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+</p>
 
 - 📫 How to reach me **dishavreddy@gmail.com**
 
