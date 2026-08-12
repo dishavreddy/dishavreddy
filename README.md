@@ -1,9 +1,29 @@
 
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=dishavreddy&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=dishavreddy&theme=neon" alt="dishavreddy hero section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dishavreddy&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=dishavreddy&theme=neon" alt="dishavreddy GitHub stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/languages?username=dishavreddy&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/languages?username=dishavreddy&theme=neon" alt="dishavreddy top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/streak?username=dishavreddy&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/streak?username=dishavreddy&theme=neon" alt="dishavreddy GitHub streak" />
   </picture>
 </p>
 
