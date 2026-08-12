@@ -5,10 +5,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishavreddy&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 <h3 align="left">GitHub Trophies</h3>
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dishavreddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
 </p>
-
 - 📫 How to reach me **dishavreddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
