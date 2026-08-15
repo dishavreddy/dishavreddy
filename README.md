@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Full-Stack Developer | React | Node.js | AI</h4>
+<h4 data-importer="text" align="left">Full-Stack | Web & Agentic AI </h4>
 
 ###
 
