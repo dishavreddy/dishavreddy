@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Disha V Reddy</h2>
+<h2 data-importer="text" align="left">Disha V Reddy</h2>
 
 ###
 
