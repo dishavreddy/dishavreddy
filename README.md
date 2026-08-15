@@ -36,10 +36,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-</div>
-
-###
 
 <br clear="both">
 
