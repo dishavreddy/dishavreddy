@@ -1,15 +1,65 @@
-<h2 data-importer="text" align="left">Disha V Reddy</h2>
+<div align="center">
 
-###
+<h1>Disha V Reddy</h1>
 
-<h4 data-importer="text" align="left">Full-Stack </h4>
+<h3>Full-Stack</h3>
 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
+<p>
+Building practical web applications, AI-powered tools, and developer-focused projects.
 </p>
 
-### Socials
+<p>
+  <a href="https://github.com/dishavreddy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dishavreddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/DishaVRedd63091">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/dishavreddy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/DishaVRedd63091" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/dishavreddy/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+</div>
 
+---
+
+<div align="center">
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,flask,fastapi,mongodb,mysql,supabase,firebase,git,github,vite,vercel,aws" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### What I Work With
+
+| Area              | Technologies                                         |
+| ----------------- | ---------------------------------------------------- |
+| **Frontend**      | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Backend**       | Node.js, Express, Flask, FastAPI                     |
+| **Databases**     | MongoDB, MySQL, Supabase, Firebase                   |
+| **Languages**     | Python, Java, C++, C, JavaScript, TypeScript         |
+| **AI / APIs**     | Gemini, Claude, AI APIs, OpenCV                      |
+| **Tools & Cloud** | Git, GitHub, Vite, Vercel, AWS                       |
+
+</div>
+
+---
+
+<div align="center">
+
+### Featured Projects
+
+<a href="https://github.com/dishavreddy/morning-briefing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dishavreddy&repo=morning-briefing&theme=default" />
+</a>
+
+<a href="https://github.com/dishavreddy/ai-expense-tracker">
+  <img src="htt
