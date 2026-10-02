@@ -2,23 +2,24 @@
 
 ###
 
-<h4 data-importer="text" align="left">Full-Stack | Web & Agentic AI </h4>
+<h4 data-importer="text" align="left">Full-Stack </h4>
 
 ###
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+<!-- You can copy and paste this code directly into your GitHub README or HTML project -->
+
+<div align="center">
+  <h3>Full-Stack | Web & Agentic AI</h3>
+  
+  <!-- Tech Stack Icons -->
+  <p>
+    <img src="https://shields.io" alt="TypeScript" />
+    <img src="https://shields.io" alt="JavaScript" />
+    <img src="https://shields.io" alt="React" />
+    <img src="https://shields.io" alt="Node.js" />
+  </p>
 </div>
+
 
 ###
 
