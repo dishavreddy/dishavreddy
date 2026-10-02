@@ -2,8 +2,9 @@
 
 <h2>Disha V Reddy</h2>
 
-<h4>Full-Stack</h4>
+
 <div align="center">
+  <h3>Skills</h3>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
